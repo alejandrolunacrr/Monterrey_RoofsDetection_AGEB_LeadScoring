@@ -1,0 +1,4 @@
+# --- Archivos Pesados (Ignorar) ---
+*.tif
+*.tiff
+*.pth 

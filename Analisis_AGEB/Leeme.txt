@@ -1,0 +1,1 @@
+Monterrey_SHP son los archivos Shapefile del estudio AMAI del 2020.
