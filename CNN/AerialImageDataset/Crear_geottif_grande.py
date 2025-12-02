@@ -79,8 +79,8 @@ if __name__ == "__main__":
     
     # --- PROCESO 1: Crear el mosaico de MÁSCARAS ---
     # (Tu log mostró que esta carpeta no se encontró, asegúrate que la ruta sea correcta)
-    INPUT_MASK_DIR = r"C:\Users\aleja\Desktop\google_earths\CNN\predicciones_monterrey_512\cuadrante4"
-    OUTPUT_MOSAIC_MASK = r"C:\Users\aleja\Desktop\google_earths\CNN\Imagenes y mascaras completas de MTY\MONTERREY_MASCARA_COMPLETA_tunned_512_4.tif"
+    INPUT_MASK_DIR = r"C:\Users\aleja\Desktop\google_earths\CNN\CNN_predicciones_mascaras\predicciones_monterrey_SOLIDOS\cuadrante4"
+    OUTPUT_MOSAIC_MASK = r"C:\Users\aleja\Desktop\google_earths\CNN\Imagenes y mascaras completas de MTY\MONTERREY_MASCARA_NOM_4.tif"
     create_mosaic(INPUT_MASK_DIR, OUTPUT_MOSAIC_MASK)
 
     # --- PROCESO 2: Crear el mosaico de IMÁGENES ORIGINALES ---
